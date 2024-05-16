@@ -4,6 +4,9 @@ This SwiftUI application simulates a crypto transaction system with encryption a
 The application involves simulating players engaging in transactions using encryption and decryption techniques. Players are initialized with cryptographic keys, and transactions involve sending encrypted messages between players.
 
 ## Screenshots
+<img src="https://github.com/kakzw/CyclicErrorCorrection/assets/167830553/59981ba3-3ba4-4f8d-bfb2-5daf43de8c59" width="300">
+<img src="https://github.com/kakzw/CyclicErrorCorrection/assets/167830553/5134373f-e400-4971-91d9-0d2e98592006" width="300">
+<img src="https://github.com/kakzw/CyclicErrorCorrection/assets/167830553/bf4087ed-30af-4c6e-a125-37de267791b6" width="300">
 
 ## Model
 - **Player**
