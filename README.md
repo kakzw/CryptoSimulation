@@ -4,9 +4,9 @@ This SwiftUI application simulates a crypto transaction system with encryption a
 The application involves simulating players engaging in transactions using encryption and decryption techniques. Players are initialized with cryptographic keys, and transactions involve sending encrypted messages between players.
 
 ## Screenshots
-<img src="https://github.com/kakzw/CyclicErrorCorrection/assets/167830553/59981ba3-3ba4-4f8d-bfb2-5daf43de8c59" width="300">
-<img src="https://github.com/kakzw/CyclicErrorCorrection/assets/167830553/5134373f-e400-4971-91d9-0d2e98592006" width="300">
-<img src="https://github.com/kakzw/CyclicErrorCorrection/assets/167830553/bf4087ed-30af-4c6e-a125-37de267791b6" width="300">
+<img src="https://github.com/kakzw/TitanicSurvivalSimulator/assets/167830553/a16a9502-fce0-43be-9a46-8f7a6e8eb9de" width="300">
+<img src="https://github.com/kakzw/TitanicSurvivalSimulator/assets/167830553/d2824927-fa8c-442e-a89f-a3e97b1a257c" width="300">
+<img src="https://github.com/kakzw/TitanicSurvivalSimulator/assets/167830553/f3891304-983a-4c55-a68e-6b399fb0ae33" width="300">
 
 ## Model
 - **Player**
